@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #fbfee7;
 }
 
 .container {
@@ -10,10 +10,10 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
-
-header {
+#Title {
     text-align: center;
-    margin-bottom: 30px;
+    background-color: #1966c9;
+
 }
 .akaya-kanadaka-regular {
     font-family: "Akaya Kanadaka", system-ui;
@@ -23,7 +23,7 @@ header {
 h1 {
     font-weight:600;
     font-size: 100px;
-    color: #333;
+    color: #fcfdf5;
 }
 
 nav {
